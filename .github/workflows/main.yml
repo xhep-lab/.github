@@ -8,6 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+      - uses: sarisia/actions-readme-feed@v1
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
