@@ -1,11 +1,20 @@
 <h1 align="center">
-X-HEP
+✨ X-HEP LABORATORY
 </h1>
 <div align="center">
-<i>High Energy Physics @ XJTLU</i>
+<i>High Energy Physics Laboratory @ XJTLU</i>
 </div>
 
 We are the X-HEP laboratory at [XJTLU](https://www.xjtlu.edu.cn/en/study/departments/school-of-mathematics-and-physics/physics) 👋
+
+###
+
+<p align="center">
+  <a href="https://scholar.xjtlu.edu.cn/en/persons/AndrewFowlie"><img src="https://scholar.xjtlu.edu.cn/files-asset/35379481/testfilename.jpg" height="150"></a>
+  <a href="https://scholar.xjtlu.edu.cn/en/persons/TiagoAdorno"><img src="https://scholar.xjtlu.edu.cn/files-asset/35378571/testfilename.jpg" height="150"></a>
+  <a href="https://scholar.xjtlu.edu.cn/en/persons/ArthurMoraes"><img src="https://scholar.xjtlu.edu.cn/files-asset/35378639/testfilename.jpg" height="150"></a>
+  <a href="https://scholar.xjtlu.edu.cn/en/persons/NielsGresnigt"><img src="https://scholar.xjtlu.edu.cn/files-asset/35370071/testfilename.jpg" height="150"></a>
+</p>
 
 ### 📄 Recent preprints
 
@@ -20,8 +29,9 @@ We are the X-HEP laboratory at [XJTLU](https://www.xjtlu.edu.cn/en/study/departm
 
 ### 💻 Scientific software
 
-- [stanhf](https://github.com/xhep-lab/stanhf)
-- [polystan](https://github.com/xhep-lab/polystan)
+- [stanhf](https://github.com/xhep-lab/stanhf) *- convert histofactory models to Stan* 
+- [polystan](https://github.com/xhep-lab/polystan) *- run PolyChord nested sampling on Stan models* 
+- [ideal](https://github.com/xhep-lab/ideal) *- compute an unbiased estimator of the Poisson likelihood in collider searches* 
 
 ### :bowtie: Talks & presentations
 
