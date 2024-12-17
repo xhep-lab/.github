@@ -8,9 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PAT }}
-      - uses: sarisia/actions-readme-feed@v1
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
@@ -19,3 +16,5 @@ jobs:
             http://arxiv.org/a/fowlie_a_1.atom2
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@master
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
