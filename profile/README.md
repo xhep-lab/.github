@@ -5,9 +5,9 @@ X-HEP
 <i>High Energy Physics @ XJTLU</i>
 </div>
 
-This is the repo of the X-HEP laboratory. 
+We are the X-HEP laboratory at [XJTLU](https://www.xjtlu.edu.cn/en/study/departments/school-of-mathematics-and-physics/physics) 👋
 
-# arXiv preprints
+### 📄 Recent preprints
 
 <!-- feed start -->
 - Dec 06 - [PhaseTracer2: from the effective potential to gravitational waves](http://arxiv.org/abs/2412.04881v1)
@@ -16,4 +16,14 @@ This is the repo of the X-HEP laboratory.
 - Jan 22 - [The Bayes factor surface for searches for new physics](http://arxiv.org/abs/2401.11710v2)
 - Jun 30 - [Modeling the $R$-ratio and hadronic contributions to $g-2$ with a Treed Gaussian Process](http://arxiv.org/abs/2306.17385v2)
 <!-- feed end -->
+
+
+### 💻 Scientific software
+
+- [stanhf](https://github.com/xhep-lab/stanhf)
+- [polystan](https://github.com/xhep-lab/polystan)
+
+### :bowtie: Talks & presentations
+
+
 
