@@ -11,7 +11,7 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          file: 'README.md'
+          file: './profile/README.md'
           url: |
             http://arxiv.org/a/fowlie_a_1.atom2
       - if: ${{ steps.feed.outputs.changed == true }}
