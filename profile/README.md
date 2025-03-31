@@ -19,11 +19,11 @@ We are the X-HEP laboratory at [XJTLU](https://www.xjtlu.edu.cn/en/study/departm
 ### 📄 Recent preprints
 
 <!-- feed start -->
+- Mar 28 - [stanhf: HistFactory models in the probabilistic programming language Stan](http://arxiv.org/abs/2503.22188v1)
 - Feb 12 - [Bring the noise: exact inference from noisy simulations in collider physics](http://arxiv.org/abs/2502.08157v1)
 - Dec 06 - [PhaseTracer2: from the effective potential to gravitational waves](http://arxiv.org/abs/2412.04881v1)
 - Sep 27 - [A comparison of Bayesian sampling algorithms for high-dimensional particle physics and cosmology applications](http://arxiv.org/abs/2409.18464v2)
 - Jun 05 - [Precise interpretations of traditional fine-tuning measures](http://arxiv.org/abs/2406.03533v2)
-- Jan 22 - [The Bayes factor surface for searches for new physics](http://arxiv.org/abs/2401.11710v2)
 <!-- feed end -->
 
 
