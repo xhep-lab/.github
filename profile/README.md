@@ -12,7 +12,6 @@ We are the X-HEP laboratory at [XJTLU](https://www.xjtlu.edu.cn/en/study/departm
 <p align="center">
   <a href="https://scholar.xjtlu.edu.cn/en/persons/AndrewFowlie"><img src="https://scholar.xjtlu.edu.cn/files-asset/35379481/testfilename.jpg" height="150"></a>
   <a href="https://scholar.xjtlu.edu.cn/en/persons/TiagoAdorno"><img src="https://scholar.xjtlu.edu.cn/files-asset/35378571/testfilename.jpg" height="150"></a>
-  <a href="https://scholar.xjtlu.edu.cn/en/persons/ArthurMoraes"><img src="https://scholar.xjtlu.edu.cn/files-asset/35378639/testfilename.jpg" height="150"></a>
   <a href="https://scholar.xjtlu.edu.cn/en/persons/NielsGresnigt"><img src="https://scholar.xjtlu.edu.cn/files-asset/35370071/testfilename.jpg" height="150"></a>
 </p>
 
@@ -33,7 +32,8 @@ We are the X-HEP laboratory at [XJTLU](https://www.xjtlu.edu.cn/en/study/departm
 - [polystan](https://github.com/xhep-lab/polystan) *- run PolyChord nested sampling on Stan models* 
 - [ideal](https://github.com/xhep-lab/ideal) *- compute an unbiased estimator of the Poisson likelihood in collider searches* 
 
+<!---
 ### :bowtie: Talks & presentations
-
+-->
 
 
